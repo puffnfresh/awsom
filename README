@@ -3,8 +3,11 @@
 \_,_/|__,__/___/\___/_/_/_/
 
 
-This is a small implementation of a Self-Organising Map in Python. Having Psyco
-installed will speed up the packaged examples. 
+This is a small implementation of a Self-Organising Map in Python.
+
+To run the examples you will need PIL (Python Imaging Library) installed. It is
+also recommended to have Psyco installed as it will speed the examples up
+dramatically.
 
 awsom was heavily influenced by Smerity's Self Oranising Kohonen Map
 (http://www.smerity.com/).
