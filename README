@@ -1,0 +1,10 @@
+ ___ __    _____ ___  __ _ 
+/ _ `/ |/|/ (_-</ _ \/  ' \
+\_,_/|__,__/___/\___/_/_/_/
+
+
+This is a small implementation of a Self-Organising Map in Python. Having Psyco
+installed will speed up the packaged examples. 
+
+awsom was heavily influenced by Smerity's Self Oranising Kohonen Map
+(http://www.smerity.com/).
