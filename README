@@ -9,5 +9,6 @@ To run the examples you will need PIL (Python Imaging Library) installed. It is
 also recommended to have Psyco installed as it will speed the examples up
 dramatically.
 
-awsom was heavily influenced by Smerity's Self Oranising Kohonen Map
-(http://www.smerity.com/).
+awsom was heavily influenced by Smerity's Self Oranising Kohonen Map[1].
+
+[1] http://www.smerity.com/
