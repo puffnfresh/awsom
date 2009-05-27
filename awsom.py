@@ -25,7 +25,7 @@ class SOM:
         if self.length is None:
             self.length = len(node.weights)
         elif len(node.weights) != self.length:
-            # We can't mix nodes with a difference number of weights
+            # We can't mix nodes with a different number of weights
             return
         
         self.nodes.append(node)
